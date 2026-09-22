@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Estoque, PDV e Carnês",
+  "description": "Sistema integrado de controle de estoque, frente de caixa com leitor de código de barras, emissão de carnês e notas fiscais para Baby Liz (Moda Infantil) e Metamorfose Cosméticos.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
